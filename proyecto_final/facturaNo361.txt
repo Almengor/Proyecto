@@ -1,0 +1,25 @@
+
+
+------------------------- FACTURA No. 361 ---------------------
+
+
+No. Factura: 361
+Serie: 1
+Fecha: 2021-06-08 15:00:45
+Cliente: Jorge Sebastian Aldana
+
+
+---------------------------- DETALLE ------------------------
+
+
+31  |  31  |  1  |  Azucar Caña Real  |  2  |  18  |  36
+
+
+-------------------------------------------------------------
+Total productos: 1
+
+
+
+Total : Q 36
+
+Cajero: Carlos Rivera - Fecha: 2021-06-08 15:00:45

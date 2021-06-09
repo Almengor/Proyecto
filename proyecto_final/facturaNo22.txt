@@ -1,0 +1,22 @@
+----------------------------FACTURA No. 22------------------------
+
+
+No. Factura: 22
+Serie: 1
+Fecha: 2021-06-07 18:34:34
+Cliente: Juan Antonio Moran
+
+
+----------------------------DETALLE------------------------
+
+
+20  |  22  |  1  |  Azucar Caña Real  |  3  |  18  |  54
+21  |  22  |  3  |  Jugo pack  |  2  |  16  |  32
+--------------------------------------- 
+Total productos: 2
+
+
+
+Total : 54
+
+Cajero: Carlos Rivera - Fecha: 2021-06-07 18:34:34
